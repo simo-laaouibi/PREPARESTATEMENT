@@ -5,13 +5,21 @@ relationnelles. JDBC fournit un ensemble de classes et de méthodes permettant d
 connexions à des bases de données, d'envoyer des requêtes SQL, de récupérer des résultats et de
 gérer des transactions. En d'autres termes, JDBC permet aux applications Java d'accéder, de
 manipuler et de gérer les données stockées dans la base de données de manière standardisée.
+
 fenetre de gestion des etudients :
+
 ![gestion des client](https://github.com/simo-laaouibi/projetJDBC/assets/148088062/d53fcb33-48fc-4d6c-b703-61e8c7b5a2f8)
+
 client ajouter :
+
 ![Capture d'écran 2023-10-18 130520](https://github.com/simo-laaouibi/projetJDBC/assets/148088062/f724e19b-f08f-4253-8df7-1b15bc078a2d)
+
 client modifier :
+
 ![modification de client](https://github.com/simo-laaouibi/projetJDBC/assets/148088062/7a20a323-b433-48fb-99ed-22b4ca5e4461)
+
 Client supprimer :
+
 ![SUPPRIMER CLIENT](https://github.com/simo-laaouibi/projetJDBC/assets/148088062/a33a4255-6478-4430-b4ea-afcf0b0970a1)
 
 fenetre de gestion de service :
