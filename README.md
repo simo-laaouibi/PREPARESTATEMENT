@@ -37,6 +37,12 @@ supprimer service :
 
 ![supprimer service ](https://github.com/simo-laaouibi/PREPARESTATEMENT/assets/148088062/d3778f62-ba9d-44d8-bca9-3e6e799ce859)
 
+Modifier un service :
+
+![Screenshot 2023-10-18 204427](https://github.com/simo-laaouibi/hibernate/assets/148088062/42739826-a40e-41f8-87b5-8d2af7b23e15)
+
+
+
 # Page de recherche :
 Fenêtre de Recherche : L'application permet de chercher les clients par leur service. Si le nom de 
 client n’existe pas la fenêtre affiche un message d’erreur.
